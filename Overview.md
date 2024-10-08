@@ -4,7 +4,6 @@
 
 ## 1. Introduction
 Quantum computers and classical computers use different ways of processing data. While classical computers use binary bits to process data sequentially, quantum computers use qubits and have the **parallel processing power** to calculate multiple states simultaneously. This paper analyzes the differences between these two systems when processing **large-scale AI training data** and discusses how the parallel processing power of quantum computers can improve data processing efficiency.
-***Translated with www.DeepL.com/Translator (free version)***
 
 
 ## 2. Data Processing in Classical Computers
